@@ -51,7 +51,7 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="BI" height="30" width="40" src="https://imgs.search.brave.com/TB0kIVjo3Bh8Qt9OrGcY-J6VIR5cdWRIm6hGEThuesc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://www.svgrepo.com/show/7095/linux.svg">
   </div>
   
