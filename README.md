@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Ramiro! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at UNIFAPI <img align="center" alt="html5" src="https://unifapi.edu.br/assets/img/logo.png" />
+  - 🌱 I’m currently studying Data Science and Computer Science at UNIFAPI <img align="center" alt="Logo unifapi" height="60" width="120"  src="https://unifapi.edu.br/assets/img/logo.png" />
 
   - 🔭 "Currently, I work as a data scientist in big data..
 </p>
