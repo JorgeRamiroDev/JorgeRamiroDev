@@ -51,7 +51,7 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="BI" height="30" width="40" src="https://imgs.search.brave.com/TB0kIVjo3Bh8Qt9OrGcY-J6VIR5cdWRIm6hGEThuesc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NmL05ld19Qb3dl/cl9CSV9Mb2dvLnN2/Zw.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+    <img align="center" alt="Jupyter" height="30" width="30" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">
     <img align="center" alt="Linux" height="30" width="40" src="https://www.svgrepo.com/show/7095/linux.svg">
   </div>
   
@@ -60,7 +60,7 @@
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Tensor" src="[" width="40" height="40"/>](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
+    <img align="center" alt="Tensor" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40"/>
     
   </div>
 
