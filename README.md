@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying Data Science and Computer Science at UNIFAPI <img align="center" alt="Logo unifapi" height="60" width="120"  src="https://unifapi.edu.br/assets/img/logo.png" />
 
-  - 🔭 "Currently, I work as a data scientist in big data..
+  - 🔭 "Currently, I work as a data scientist at big data..
 </p>
 
 <!-- Dropdown -->
