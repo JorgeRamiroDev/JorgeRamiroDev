@@ -49,7 +49,6 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://media.licdn.com/dms/image/D4D12AQE88NdPMRH-Lw/article-cover_image-shrink_600_2000/0/1715302082269?e=1729123200&v=beta&t=dJRNhrimtiLSniiC3SOB_jR82aEA6m8_3Yc5ciDrCao">
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="30" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">
     <img align="center" alt="Linux" height="30" width="40" src="https://www.svgrepo.com/show/7095/linux.svg">
